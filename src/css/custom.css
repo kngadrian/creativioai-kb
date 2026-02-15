@@ -11,15 +11,40 @@
 
 [data-theme='dark'] {
   --ifm-background-color: #212529;
-  --ifm-background-surface-color: #1b1f23;
+  --ifm-background-surface-color: #171a1d;
+  --ifm-navbar-background-color: rgba(23,26,29,0.72);
+  --ifm-footer-background-color: #111315;
+  --ifm-card-background-color: #171a1d;
+  --ifm-font-color-base: #e9ecef;
 }
 
+/* Make navbar feel more modern */
+.navbar {
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+
+/* Cards */
+.card {
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 16px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.25);
+}
+
+/* Homepage */
 .heroBanner {
-  padding: 4rem 0;
+  padding: 4.5rem 0 3rem;
 }
 
 .cardGrid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
+}
+
+/* Make images pop */
+.markdown img {
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.08);
+  box-shadow: 0 10px 28px rgba(0,0,0,0.35);
 }
