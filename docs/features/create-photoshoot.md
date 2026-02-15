@@ -8,6 +8,20 @@ title: Create Photoshoot
 
 ![Create Photoshoot screen](/screenshots/create-photoshoot.png)
 
+## Example: a complete photoshoot (real run)
+
+Below is a real example created in CreativioAI using a sample product image.
+
+### Example A — Settings used
+![Example A settings](/screenshots/create-settings.png)
+
+### Example A — Result preview
+![Example A result preview](/screenshots/create-result.png)
+
+### Example A — Full-size view
+![Example A full-size](/screenshots/create-fullsize.png)
+
+
 ## Where to find it
 - Sidebar → **Create Photoshoot**
 - URL: `/create`
