@@ -1,3 +1,7 @@
+---
+title: Brand Kit
+---
+
 # Brand Kit
 
 Define your brand’s identity so generations are consistent.

@@ -1,3 +1,7 @@
+---
+title: Ai Magic Tools
+---
+
 # AI Magic Tools
 
 One-off AI editing tools to refine images.

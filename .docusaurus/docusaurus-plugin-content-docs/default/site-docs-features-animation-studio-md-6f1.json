@@ -1,0 +1,27 @@
+{
+  "id": "features/animation-studio",
+  "title": "Animation Studio",
+  "description": "Turn images (or text) into video animations.",
+  "source": "@site/docs/features/animation-studio.md",
+  "sourceDirName": "features",
+  "slug": "/features/animation-studio",
+  "permalink": "/creativioai-kb/features/animation-studio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kngadrian/creativioai-kb/edit/main/docs/features/animation-studio.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1771167129000,
+  "frontMatter": {
+    "title": "Animation Studio"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Ai Magic Tools",
+    "permalink": "/creativioai-kb/features/ai-magic-tools"
+  },
+  "next": {
+    "title": "Brand Kit",
+    "permalink": "/creativioai-kb/features/brand-kit"
+  }
+}

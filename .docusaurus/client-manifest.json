@@ -1,0 +1,259 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "12ae150c": [
+      937
+    ],
+    "1b377a72": [
+      231
+    ],
+    "5e95c892": [
+      647
+    ],
+    "6f1db649": [
+      645
+    ],
+    "9bc47580": [
+      819
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aace3873": [
+      702
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "b5f059d7": [
+      771
+    ],
+    "c0742808": [
+      709
+    ],
+    "c377a04b": [
+      361
+    ],
+    "d589d3a7": [
+      924
+    ],
+    "e8c23b91": [
+      542
+    ],
+    "fa291c72": [
+      556
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.04cd487a.js",
+          "hash": "7df85cc02821dcf3",
+          "publicPath": "/creativioai-kb/assets/js/a94703ab.04cd487a.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.527c3a66.js",
+          "hash": "a0ad8fc5ac0b1631",
+          "publicPath": "/creativioai-kb/assets/js/a7bd4aaa.527c3a66.js"
+        }
+      ]
+    },
+    "231": {
+      "js": [
+        {
+          "file": "assets/js/1b377a72.2c31363a.js",
+          "hash": "8a417b2df236f064",
+          "publicPath": "/creativioai-kb/assets/js/1b377a72.2c31363a.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.72c4d4e0.js",
+          "hash": "69c4b66236166f5a",
+          "publicPath": "/creativioai-kb/assets/js/237.72c4d4e0.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.64bd5a2a.js",
+          "hash": "e7df98c70dbd4485",
+          "publicPath": "/creativioai-kb/assets/js/runtime~main.64bd5a2a.js"
+        }
+      ]
+    },
+    "361": {
+      "js": [
+        {
+          "file": "assets/js/c377a04b.8b1ebd95.js",
+          "hash": "7922f0d31539d1e5",
+          "publicPath": "/creativioai-kb/assets/js/c377a04b.8b1ebd95.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.845c41ec.js",
+          "hash": "59b12cd993d1114a",
+          "publicPath": "/creativioai-kb/assets/js/17896441.845c41ec.js"
+        }
+      ]
+    },
+    "542": {
+      "js": [
+        {
+          "file": "assets/js/e8c23b91.c0a4ac14.js",
+          "hash": "b04532df9204e1ef",
+          "publicPath": "/creativioai-kb/assets/js/e8c23b91.c0a4ac14.js"
+        }
+      ]
+    },
+    "556": {
+      "js": [
+        {
+          "file": "assets/js/fa291c72.6285a18b.js",
+          "hash": "a59cda344a9eff9a",
+          "publicPath": "/creativioai-kb/assets/js/fa291c72.6285a18b.js"
+        }
+      ]
+    },
+    "645": {
+      "js": [
+        {
+          "file": "assets/js/6f1db649.cbddd9a0.js",
+          "hash": "1331c113101b08ef",
+          "publicPath": "/creativioai-kb/assets/js/6f1db649.cbddd9a0.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.86b02c28.js",
+          "hash": "fab8590c00f62b36",
+          "publicPath": "/creativioai-kb/assets/js/5e95c892.86b02c28.js"
+        }
+      ]
+    },
+    "702": {
+      "js": [
+        {
+          "file": "assets/js/aace3873.286a7d08.js",
+          "hash": "2c3d8f69fa08f1c8",
+          "publicPath": "/creativioai-kb/assets/js/aace3873.286a7d08.js"
+        }
+      ]
+    },
+    "709": {
+      "js": [
+        {
+          "file": "assets/js/c0742808.f0e1f73d.js",
+          "hash": "ed3b2eadd5d2338e",
+          "publicPath": "/creativioai-kb/assets/js/c0742808.f0e1f73d.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.34eb51f0.js",
+          "hash": "c78a1b496383e033",
+          "publicPath": "/creativioai-kb/assets/js/aba21aa0.34eb51f0.js"
+        }
+      ]
+    },
+    "771": {
+      "js": [
+        {
+          "file": "assets/js/b5f059d7.5dadabd8.js",
+          "hash": "eccad17881beff4f",
+          "publicPath": "/creativioai-kb/assets/js/b5f059d7.5dadabd8.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.1f75338a.js",
+          "hash": "4eceb2b4763a5a00",
+          "publicPath": "/creativioai-kb/assets/js/main.1f75338a.js"
+        }
+      ]
+    },
+    "819": {
+      "js": [
+        {
+          "file": "assets/js/9bc47580.53d48dfd.js",
+          "hash": "068cc8f87d34972d",
+          "publicPath": "/creativioai-kb/assets/js/9bc47580.53d48dfd.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.8c5f6055.css",
+          "hash": "df612d7fc88af5ee",
+          "publicPath": "/creativioai-kb/assets/css/styles.8c5f6055.css"
+        }
+      ]
+    },
+    "924": {
+      "js": [
+        {
+          "file": "assets/js/d589d3a7.d3e93ade.js",
+          "hash": "e7ea3ab1cdb3ebae",
+          "publicPath": "/creativioai-kb/assets/js/d589d3a7.d3e93ade.js"
+        }
+      ]
+    },
+    "937": {
+      "js": [
+        {
+          "file": "assets/js/12ae150c.cd8895e8.js",
+          "hash": "1b098b948ba1b2de",
+          "publicPath": "/creativioai-kb/assets/js/12ae150c.cd8895e8.js"
+        }
+      ]
+    }
+  }
+}

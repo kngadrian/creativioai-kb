@@ -1,3 +1,7 @@
+---
+title: Getting started
+---
+
 # Getting started
 
 CreativioAI helps you generate product photoshoots, edit images with AI tools, and create animated creatives.

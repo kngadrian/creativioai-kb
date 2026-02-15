@@ -1,3 +1,7 @@
+---
+title: Index
+---
+
 # Workflows
 
 This section will contain end-to-end, step-by-step tutorials.

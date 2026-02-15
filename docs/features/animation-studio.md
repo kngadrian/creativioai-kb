@@ -1,3 +1,7 @@
+---
+title: Animation Studio
+---
+
 # Animation Studio
 
 Turn images (or text) into video animations.

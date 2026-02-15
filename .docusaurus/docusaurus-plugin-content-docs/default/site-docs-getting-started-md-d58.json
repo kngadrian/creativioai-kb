@@ -1,0 +1,27 @@
+{
+  "id": "getting-started",
+  "title": "Getting started",
+  "description": "CreativioAI helps you generate product photoshoots, edit images with AI tools, and create animated creatives.",
+  "source": "@site/docs/getting-started.md",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/creativioai-kb/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kngadrian/creativioai-kb/edit/main/docs/getting-started.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1771167129000,
+  "frontMatter": {
+    "title": "Getting started"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/creativioai-kb/"
+  },
+  "next": {
+    "title": "Index",
+    "permalink": "/creativioai-kb/workflows/"
+  }
+}

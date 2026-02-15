@@ -1,3 +1,7 @@
+---
+title: Ai Magic Studio
+---
+
 # AI Magic Studio
 
 Canvas-style editor to combine images, mask regions, and generate a final composition.

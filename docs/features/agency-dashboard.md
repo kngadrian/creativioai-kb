@@ -1,3 +1,7 @@
+---
+title: Agency Dashboard
+---
+
 # Agency Dashboard
 
 Manage clients and team members.

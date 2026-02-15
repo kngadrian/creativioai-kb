@@ -1,0 +1,27 @@
+{
+  "id": "features/brand-kit",
+  "title": "Brand Kit",
+  "description": "Define your brand’s identity so generations are consistent.",
+  "source": "@site/docs/features/brand-kit.md",
+  "sourceDirName": "features",
+  "slug": "/features/brand-kit",
+  "permalink": "/creativioai-kb/features/brand-kit",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/kngadrian/creativioai-kb/edit/main/docs/features/brand-kit.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedAt": 1771167129000,
+  "frontMatter": {
+    "title": "Brand Kit"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Animation Studio",
+    "permalink": "/creativioai-kb/features/animation-studio"
+  },
+  "next": {
+    "title": "Agency Dashboard",
+    "permalink": "/creativioai-kb/features/agency-dashboard"
+  }
+}

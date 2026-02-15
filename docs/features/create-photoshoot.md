@@ -1,8 +1,12 @@
+---
+title: Create Photoshoot
+---
+
 # Create Photoshoot
 
 **Purpose:** Generate studio-quality product photos using AI.
 
-![Create Photoshoot screen](../assets/screenshots/create-photoshoot.png)
+![Create Photoshoot screen](/screenshots/create-photoshoot.png)
 
 ## Where to find it
 - Sidebar → **Create Photoshoot**
