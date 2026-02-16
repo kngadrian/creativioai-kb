@@ -460,10 +460,10 @@ Before exporting any creative:
 
 ## Next Steps
 
-- [Learn Create Photoshoot](/docs/features/create-photoshoot) in depth
-- [Master AI Magic Studio](/docs/features/ai-magic-studio) techniques
-- [Set up your Brand Kit](/docs/features/brand-kit) for consistency
-- [Explore AI Magic Tools](/docs/features/ai-magic-tools) for enhancement
+- [Learn Create Photoshoot](/features/create-photoshoot) in depth
+- [Master AI Magic Studio](/features/ai-magic-studio) techniques
+- [Set up your Brand Kit](/features/brand-kit) for consistency
+- [Explore AI Magic Tools](/features/ai-magic-tools) for enhancement
 
 ## Get Inspired
 

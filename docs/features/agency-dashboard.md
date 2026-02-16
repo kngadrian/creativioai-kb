@@ -193,9 +193,9 @@ The Agency Dashboard integrates seamlessly with your creative workflow:
 
 ## Next Steps
 
-- [Create your first photoshoot](/docs/features/create-photoshoot) for a client
-- [Set up Brand Kit](/docs/features/brand-kit) for client brands
-- [Use AI Magic Tools](/docs/features/ai-magic-tools) to enhance assets
+- [Create your first photoshoot](/features/create-photoshoot) for a client
+- [Set up Brand Kit](/features/brand-kit) for client brands
+- [Use AI Magic Tools](/features/ai-magic-tools) to enhance assets
 - [Export and deliver](/docs/workflows) final creatives
 
 ## Common Questions

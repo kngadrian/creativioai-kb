@@ -151,7 +151,7 @@ Quick links to complete, end-to-end workflows:
 ### 🛒 E-commerce Sellers
 Create product photography and lifestyle shots without expensive photoshoots. Perfect for Shopify, Amazon, and direct-to-consumer brands.
 
-**Start here:** [Create Photoshoot](/features/create-photoshoot) → [E-commerce Workflow](/workflows/#ecommerce-lifestyle-workflow)
+**Start here:** [Create Photoshoot](/features/create-photoshoot) → [E-commerce Workflow](/workflows/#e-commerce-lifestyle-workflow)
 
 ### 📱 Social Media Managers
 Generate consistent, on-brand content for Instagram, Facebook, TikTok, and more. Batch-create weeks of content in minutes.
@@ -171,7 +171,7 @@ Manage multiple clients, maintain brand consistency, and deliver high-quality as
 ### 📊 Performance Marketers
 Create multiple ad variations for testing, optimize creatives based on data, and scale winning concepts quickly.
 
-**Start here:** [Multi-Variant Testing Workflow](/workflows/#multi-variant-testing-workflow)
+**Start here:** [Multi-Variant Testing Workflow](/workflows/#multi-variant-ad-testing-workflow)
 
 ---
 

@@ -410,14 +410,14 @@ Apply brand consistency:
 
 ## Next Steps
 
-- [Create a photoshoot](/docs/features/create-photoshoot) to generate elements for compositing
-- [Use AI Magic Tools](/docs/features/ai-magic-tools) to enhance individual elements
+- [Create a photoshoot](/features/create-photoshoot) to generate elements for compositing
+- [Use AI Magic Tools](/features/ai-magic-tools) to enhance individual elements
 - [Learn workflows](/docs/workflows) for complete creative processes
-- [Set up Brand Kit](/docs/features/brand-kit) for branded compositions
+- [Set up Brand Kit](/features/brand-kit) for branded compositions
 
 ## Related Features
 
-- [Create Photoshoot](/docs/features/create-photoshoot) - Generate AI images for compositing
-- [AI Magic Tools](/docs/features/ai-magic-tools) - Enhance individual images
-- [Animation Studio](/docs/features/animation-studio) - Animate your compositions
-- [Brand Kit](/docs/features/brand-kit) - Apply brand assets to compositions
+- [Create Photoshoot](/features/create-photoshoot) - Generate AI images for compositing
+- [AI Magic Tools](/features/ai-magic-tools) - Enhance individual images
+- [Animation Studio](/features/animation-studio) - Animate your compositions
+- [Brand Kit](/features/brand-kit) - Apply brand assets to compositions
