@@ -412,7 +412,7 @@ Apply brand consistency:
 
 - [Create a photoshoot](/features/create-photoshoot) to generate elements for compositing
 - [Use AI Magic Tools](/features/ai-magic-tools) to enhance individual elements
-- [Learn workflows](/docs/workflows) for complete creative processes
+- [Learn workflows](/workflows) for complete creative processes
 - [Set up Brand Kit](/features/brand-kit) for branded compositions
 
 ## Related Features
