@@ -268,6 +268,18 @@
 /* ---- Footer ---- */
 .footer {
   border-top: 1px solid rgba(255, 255, 255, 0.04);
+  background: var(--ifm-footer-background-color);
+  padding: 3rem 0 1.5rem;
+}
+
+.footer__logo {
+  margin-bottom: 1rem;
+  opacity: 0.9;
+  transition: opacity 0.2s ease;
+}
+
+.footer__logo:hover {
+  opacity: 1;
 }
 
 .footer__title {
@@ -276,6 +288,29 @@
   text-transform: uppercase;
   font-size: 0.8rem;
   letter-spacing: 0.06em;
+  margin-bottom: 1rem;
+}
+
+.footer__link-item {
+  font-size: 0.9rem;
+  line-height: 2;
+  color: var(--ifm-font-color-secondary);
+  transition: color 0.15s ease;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary-light);
+  text-decoration: none;
+}
+
+.footer__copyright {
+  color: var(--ifm-font-color-secondary);
+  font-size: 0.875rem;
+  text-align: center;
+}
+
+.footer__col {
+  margin-bottom: 2rem;
 }
 
 /* ---- TOC (Table of Contents) ---- */

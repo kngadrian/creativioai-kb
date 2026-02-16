@@ -70,24 +70,57 @@ const config = {
       },
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'CreativioAI Logo',
+          src: 'https://creativio.io/assets/creativio-footer-logo-CYQtbtsV.svg',
+          href: 'https://creativio.io',
+          width: 160,
+        },
         links: [
           {
-            title: 'Docs',
+            title: 'Getting Started',
             items: [
-              {label: 'Getting Started', to: '/getting-started'},
-              {label: 'Workflows', to: '/workflows/'},
-              {label: 'Features', to: '/features/'},
+              {label: 'Introduction', to: '/'},
+              {label: 'Getting Started Guide', to: '/getting-started'},
+              {label: 'Workflows & Examples', to: '/workflows/'},
             ],
           },
           {
-            title: 'Creativio',
+            title: 'Features',
             items: [
-              {label: 'Website', href: 'https://creativio.io/'},
-              {label: 'Special', href: 'https://creativio.io/special'},
+              {label: 'Create Photoshoot', to: '/features/create-photoshoot'},
+              {label: 'AI Magic Tools', to: '/features/ai-magic-tools'},
+              {label: 'AI Magic Studio', to: '/features/ai-magic-studio'},
+              {label: 'Animation Studio', to: '/features/animation-studio'},
+              {label: 'Brand Kit', to: '/features/brand-kit'},
+              {label: 'Agency Dashboard', to: '/features/agency-dashboard'},
+            ],
+          },
+          {
+            title: 'Resources',
+            items: [
+              {label: 'CreativioAI Platform', href: 'https://v2.creativio.ai'},
+              {label: 'Official Website', href: 'https://creativio.io'},
+              {label: 'Pricing', href: 'https://creativio.io/special'},
+              {label: 'Video Training', href: 'https://v2.creativio.ai/training'},
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {label: 'GitHub', href: 'https://github.com/kngadrian/creativioai-kb'},
+              {label: 'Report an Issue', href: 'https://github.com/kngadrian/creativioai-kb/issues'},
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CreativioAI`,
+        copyright: `
+          <div style="margin-top: 24px; padding-top: 24px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
+            <p style="margin: 0;">Copyright © ${new Date().getFullYear()} CreativioAI. All rights reserved.</p>
+            <p style="margin: 8px 0 0 0; font-size: 0.875rem; opacity: 0.7;">
+              Empowering creators with AI-powered visual content tools.
+            </p>
+          </div>
+        `,
       },
       prism: {
         theme: prismThemes.github,
