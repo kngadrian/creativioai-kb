@@ -1,0 +1,45 @@
+{
+  "styles": [
+    {
+      "name": "Studio White",
+      "description": "Clean e-commerce white background",
+      "use_case": "Amazon listings, Shopify, catalogs"
+    },
+    {
+      "name": "Minimalist",
+      "description": "Clean, simple, and modern",
+      "use_case": "Tech products, SaaS, modern brands"
+    },
+    {
+      "name": "Flat Lay",
+      "description": "Top-down styled arrangement",
+      "use_case": "Social media, Instagram, Pinterest"
+    },
+    {
+      "name": "Soft Glam",
+      "description": "Feminine beauty &amp; cosmetics glow",
+      "use_case": "Cosmetics, skincare, beauty brands"
+    },
+    {
+      "name": "Food &amp; Beverage",
+      "description": "Appetizing food &amp; drink styling",
+      "use_case": "Restaurants, menus, food delivery apps"
+    },
+    {
+      "name": "Scandinavian",
+      "description": "Nordic minimalism, warm &amp; cozy",
+      "use_case": "Home decor, furniture, wellness"
+    },
+    {
+      "name": "3D Render",
+      "description": "CGI-quality 3D product visualization",
+      "use_case": "Product launches, hero banners, SaaS"
+    }
+  ],
+  "categories": {
+    "Product & E-Commerce": 7,
+    "Brand & Marketing": 7,
+    "Cinematic & Editorial": 7,
+    "Creative & Trending": 9
+  }
+}

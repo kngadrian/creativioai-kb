@@ -58,13 +58,128 @@ Example:
 > Studio product photo of the item on a white seamless backdrop, softbox lighting, crisp shadows, ultra-clean ecommerce look.
 
 ### 3) Choose a style (Creative Style Engine)
-Pick a category and a style preset.
 
-Categories observed:
-- Product & E-Commerce
-- Brand & Marketing
-- Cinematic & Editorial
-- Creative & Trending
+CreativioAI offers **28 professional visual styles** across 4 categories. Each style is optimized for specific use cases and industries.
+
+#### 🛒 Product & E-Commerce (7 styles)
+
+**Studio White**  
+Clean e-commerce white background  
+→ *Perfect for:* Amazon listings, Shopify, catalogs
+
+**Minimalist**  
+Clean, simple, and modern  
+→ *Perfect for:* Tech products, SaaS, modern brands
+
+**Flat Lay**  
+Top-down styled arrangement  
+→ *Perfect for:* Social media, Instagram, Pinterest
+
+**Soft Glam**  
+Feminine beauty & cosmetics glow  
+→ *Perfect for:* Cosmetics, skincare, beauty brands
+
+**Food & Beverage**  
+Appetizing food & drink styling  
+→ *Perfect for:* Restaurants, menus, food delivery apps
+
+**Scandinavian**  
+Nordic minimalism, warm & cozy  
+→ *Perfect for:* Home decor, furniture, wellness
+
+**3D Render**  
+CGI-quality 3D product visualization  
+→ *Perfect for:* Product launches, hero banners, SaaS
+
+#### 📢 Brand & Marketing (7 styles)
+
+**Advertorial**  
+Ad campaign ready visuals  
+→ *Perfect for:* Ad campaigns, billboards, banners
+
+**Promotion**  
+Bold promo-ready imagery  
+→ *Perfect for:* Flash sales, limited offers, promos
+
+**Lifestyle**  
+Authentic, relatable scenes  
+→ *Perfect for:* Influencer content, social media, blogs
+
+**Luxury**  
+Premium, high-end aesthetic  
+→ *Perfect for:* Jewelry, watches, premium fashion
+
+**Pop Art**  
+Bold colors, comic book energy  
+→ *Perfect for:* Youth brands, merch, social campaigns
+
+**Urban Street**  
+Gritty street culture vibes  
+→ *Perfect for:* Streetwear, sneakers, urban culture
+
+**Tropical Summer**  
+Bright beach & vacation vibes  
+→ *Perfect for:* Summer campaigns, travel, outdoor brands
+
+#### 🎬 Cinematic & Editorial (7 styles)
+
+**Cinematic**  
+Movie-like quality with dramatic lighting  
+→ *Perfect for:* Hero images, landing pages, film posters
+
+**High Fashion**  
+Sleek, magazine-ready aesthetic  
+→ *Perfect for:* Fashion brands, magazines, lookbooks
+
+**Dark & Moody**  
+Dramatic dark atmosphere  
+→ *Perfect for:* Electronics, gaming, premium spirits
+
+**Vintage Film**  
+Retro analog film look  
+→ *Perfect for:* Heritage brands, artisan products, vinyl
+
+**Black & Gold**  
+Opulent dark luxury with gold accents  
+→ *Perfect for:* Luxury packaging, VIP branding
+
+**Monochrome**  
+Timeless black & white drama  
+→ *Perfect for:* Art prints, portfolios, fine art
+
+**Film Noir**  
+Classic noir mystery & shadow  
+→ *Perfect for:* Mystery novels, noir-themed branding
+
+#### ✨ Creative & Trending (7 styles)
+
+**Neon Noir**  
+Futuristic dark mode with neon pops  
+→ *Perfect for:* Gaming, tech, nightlife brands
+
+**Pastel Dream**  
+Soft, dreamy, and colorful  
+→ *Perfect for:* Kids products, stationery, K-beauty
+
+**Y2K Retro**  
+2000s nostalgic cyber aesthetic  
+→ *Perfect for:* Gen-Z brands, fashion, nostalgia
+
+**Organic / Nature**  
+Soft, earthy, and natural tones  
+→ *Perfect for:* Eco-friendly, wellness, natural products
+
+**Holographic**  
+Iridescent shimmer & rainbow chrome  
+→ *Perfect for:* Futuristic brands, music, NFTs
+
+**Watercolor Art**  
+Painted fine art watercolor style  
+→ *Perfect for:* Wedding invites, art prints, gifts
+
+**Vaporwave**  
+Retro-futuristic 80s/90s synthwave  
+→ *Perfect for:* Retro tech, music, streetwear
 
 ### 4) (Optional) Special Days Templates
 Use these when you want holiday/seasonal creatives quickly (e.g., Valentine’s templates).

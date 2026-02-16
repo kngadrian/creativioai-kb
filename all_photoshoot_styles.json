@@ -1,0 +1,179 @@
+{
+  "total_styles": 28,
+  "categories": {
+    "Product & E-Commerce": 7,
+    "Brand & Marketing": 7,
+    "Cinematic & Editorial": 7,
+    "Creative & Trending": 7
+  },
+  "styles": [
+    {
+      "name": "Studio White",
+      "description": "Clean e-commerce white background",
+      "use_case": "Amazon listings, Shopify, catalogs",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "Minimalist",
+      "description": "Clean, simple, and modern",
+      "use_case": "Tech products, SaaS, modern brands",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "Flat Lay",
+      "description": "Top-down styled arrangement",
+      "use_case": "Social media, Instagram, Pinterest",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "Soft Glam",
+      "description": "Feminine beauty & cosmetics glow",
+      "use_case": "Cosmetics, skincare, beauty brands",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "Food &amp; Beverage",
+      "description": "Appetizing food & drink styling",
+      "use_case": "Restaurants, menus, food delivery apps",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "Scandinavian",
+      "description": "Nordic minimalism, warm & cozy",
+      "use_case": "Home decor, furniture, wellness",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "3D Render",
+      "description": "CGI-quality 3D product visualization",
+      "use_case": "Product launches, hero banners, SaaS",
+      "category": "Product & E-Commerce"
+    },
+    {
+      "name": "Advertorial",
+      "description": "Ad campaign ready visuals",
+      "use_case": "Ad campaigns, billboards, banners",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Promotion",
+      "description": "Bold promo-ready imagery",
+      "use_case": "Flash sales, limited offers, promos",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Lifestyle",
+      "description": "Authentic, relatable scenes",
+      "use_case": "Influencer content, social media, blogs",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Luxury",
+      "description": "Premium, high-end aesthetic",
+      "use_case": "Jewelry, watches, premium fashion",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Pop Art",
+      "description": "Bold colors, comic book energy",
+      "use_case": "Youth brands, merch, social campaigns",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Urban Street",
+      "description": "Gritty street culture vibes",
+      "use_case": "Streetwear, sneakers, urban culture",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Tropical Summer",
+      "description": "Bright beach & vacation vibes",
+      "use_case": "Summer campaigns, travel, outdoor brands",
+      "category": "Brand & Marketing"
+    },
+    {
+      "name": "Cinematic",
+      "description": "Movie-like quality with dramatic lighting",
+      "use_case": "Hero images, landing pages, film posters",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "High Fashion",
+      "description": "Sleek, magazine-ready aesthetic",
+      "use_case": "Fashion brands, magazines, lookbooks",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "Dark &amp; Moody",
+      "description": "Dramatic dark atmosphere",
+      "use_case": "Electronics, gaming, premium spirits",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "Vintage Film",
+      "description": "Retro analog film look",
+      "use_case": "Heritage brands, artisan products, vinyl",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "Black &amp; Gold",
+      "description": "Opulent dark luxury with gold accents",
+      "use_case": "Luxury packaging, VIP branding",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "Monochrome",
+      "description": "Timeless black & white drama",
+      "use_case": "Art prints, portfolios, fine art",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "Film Noir",
+      "description": "Classic noir mystery & shadow",
+      "use_case": "Mystery novels, noir-themed branding",
+      "category": "Cinematic & Editorial"
+    },
+    {
+      "name": "Neon Noir",
+      "description": "Futuristic dark mode with neon pops",
+      "use_case": "Gaming, tech, nightlife brands",
+      "category": "Creative & Trending"
+    },
+    {
+      "name": "Pastel Dream",
+      "description": "Soft, dreamy, and colorful",
+      "use_case": "Kids products, stationery, K-beauty",
+      "category": "Creative & Trending"
+    },
+    {
+      "name": "Y2K Retro",
+      "description": "2000s nostalgic cyber aesthetic",
+      "use_case": "Gen-Z brands, fashion, nostalgia",
+      "category": "Creative & Trending"
+    },
+    {
+      "name": "Organic / Nature",
+      "description": "Soft, earthy, and natural tones",
+      "use_case": "Hardware, tools, craft beer, lofts",
+      "category": "Creative & Trending"
+    },
+    {
+      "name": "Holographic",
+      "description": "Iridescent shimmer & rainbow chrome",
+      "use_case": "Futuristic brands, music, NFTs",
+      "category": "Creative & Trending"
+    },
+    {
+      "name": "Watercolor Art",
+      "description": "Painted fine art watercolor style",
+      "use_case": "Wedding invites, art prints, gifts",
+      "category": "Creative & Trending"
+    },
+    {
+      "name": "Vaporwave",
+      "description": "Retro-futuristic 80s/90s synthwave",
+      "use_case": "Retro tech, music, streetwear",
+      "category": "Creative & Trending"
+    }
+  ]
+}
