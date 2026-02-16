@@ -9,16 +9,16 @@ Learn practical, end-to-end workflows for creating professional ads and social c
 
 ## Complete Workflows
 
-### [Product Photo to Finished Ad](#product-to-ad-workflow)
+### [Product Photo to Finished Ad](#product-photo-to-finished-ad-workflow)
 Transform a simple product photo into scroll-stopping ad creative in minutes.
 
-### [E-commerce Lifestyle Shots](#ecommerce-lifestyle-workflow)
+### [E-commerce Lifestyle Shots](#e-commerce-lifestyle-workflow)
 Create authentic lifestyle product photography without expensive photoshoots.
 
 ### [Social Media Content Series](#social-media-series-workflow)
 Generate a week's worth of on-brand social posts efficiently.
 
-### [Multi-Variant Ad Testing](#multi-variant-testing-workflow)
+### [Multi-Variant Ad Testing](#multi-variant-ad-testing-workflow)
 Create multiple ad variations for A/B testing at scale.
 
 ---
@@ -449,7 +449,7 @@ Before exporting any creative:
 **Facebook Ads (various):**
 - Primary: 1080x1080px
 - Alternative: 1200x628px
-- Text: <20% of image area (recommendation)
+- Text: Less than 20% of image area (recommendation)
 
 **Pinterest (2:3):**
 - 1000x1500px
