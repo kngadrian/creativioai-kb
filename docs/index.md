@@ -90,16 +90,16 @@ Quick links to complete, end-to-end workflows:
 
 <div style={{marginTop: '1.5rem'}}>
 
-#### [Product Photo → Finished Ad Creative](/workflows/#product-to-ad-workflow)
+#### [Product Photo → Finished Ad Creative](/workflows/#product-photo-to-finished-ad-workflow)
 *Transform a simple product photo into professional ad creative in 10-15 minutes.*
 
-#### [E-commerce Lifestyle Photography](/workflows/#ecommerce-lifestyle-workflow)
+#### [E-commerce Lifestyle Photography](/workflows/#e-commerce-lifestyle-workflow)
 *Create authentic lifestyle product shots for product pages and Amazon listings.*
 
 #### [Social Media Content Series](/workflows/#social-media-series-workflow)
 *Generate a week's worth of on-brand social posts in 30 minutes.*
 
-#### [Multi-Variant Ad Testing](/workflows/#multi-variant-testing-workflow)
+#### [Multi-Variant Ad Testing](/workflows/#multi-variant-ad-testing-workflow)
 *Create multiple ad variations for A/B testing at scale.*
 
 </div>

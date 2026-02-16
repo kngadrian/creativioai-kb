@@ -158,7 +158,7 @@ For agencies managing multiple clients:
 4. Upload to ad platform and track performance
 
 **Time:** 20 minutes  
-**Learn more:** [Multi-Variant Testing Workflow](/workflows/#multi-variant-testing-workflow)
+**Learn more:** [Multi-Variant Testing Workflow](/workflows/#multi-variant-ad-testing-workflow)
 
 ### Agency Client Work
 
@@ -271,7 +271,7 @@ Choose your path:
 → Set up [Agency Dashboard](/features/agency-dashboard) and organize your clients
 
 ### For Advertisers
-→ Learn [Multi-Variant Testing Workflow](/workflows/#multi-variant-testing-workflow)
+→ Learn [Multi-Variant Testing Workflow](/workflows/#multi-variant-ad-testing-workflow)
 
 ### Just Exploring?
 → Read [Workflows & Examples](/workflows/) for practical use cases
