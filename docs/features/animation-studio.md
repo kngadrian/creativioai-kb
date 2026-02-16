@@ -128,57 +128,53 @@ You need at least one previously generated video to use this mode. Generate a vi
 
 ## Video Styles
 
-Animation Studio includes **30 pre-built cinematic styles** organized by category. Select one from the dropdown, or choose **"None (Use Prompt Only)"** for full creative control.
+Animation Studio includes **30 pre-built cinematic styles** organized into 4 categories. Select one from the dropdown, or choose **"None (Use Prompt Only)"** for full creative control.
 
-### 🎥 Cinematic & Film
+### 🎥 Cinematic & Professional Film (7 styles)
 | Style | Description |
 |-------|-------------|
-| Photorealistic Cinematic | Hollywood-quality realistic footage |
-| Film Noir | High-contrast black & white, dramatic shadows |
-| Documentary Realism | Natural, handheld documentary feel |
-| Vintage 35mm | Classic film grain and warm tones |
-| Epic Fantasy | Grand, sweeping fantasy visuals |
-| Wes Anderson Aesthetic | Symmetrical, pastel, whimsical |
-| Gritty Urban | Raw, street-level urban energy |
+| **Photorealistic Cinematic** | Hollywood-quality realistic footage with dramatic lighting |
+| **Film Noir** | High-contrast black & white, dramatic shadows, classic noir aesthetic |
+| **Documentary Realism** | Natural, handheld documentary feel with authentic movement |
+| **Vintage 35mm** | Classic film grain and warm tones, retro cinema look |
+| **Epic Fantasy** | Grand, sweeping fantasy visuals with mythical atmosphere |
+| **Wes Anderson Aesthetic** | Symmetrical, pastel-colored, whimsical framing |
+| **Gritty Urban** | Raw, street-level urban energy with realistic textures |
 
-### 🎨 Animated & Artistic
+### 🎨 Animation & Artistic Movements (7 styles)
 | Style | Description |
 |-------|-------------|
-| 3D Pixar-Style | Smooth, vibrant 3D animation look |
-| Japanese Anime | Traditional anime art style |
-| Claymation | Stop-motion clay figure aesthetic |
-| Watercolor in Motion | Flowing watercolor paint effects |
-| Charcoal Sketch | Hand-drawn charcoal animation |
-| Impressionist Painting | Monet-inspired brushwork in motion |
+| **3D Pixar-Style** | Smooth, vibrant 3D animation look with polished rendering |
+| **Japanese Anime** | Traditional anime art style with dynamic motion |
+| **Claymation** | Stop-motion clay figure aesthetic with tactile feel |
+| **Watercolor in Motion** | Flowing watercolor paint effects with organic blending |
+| **Charcoal Sketch** | Hand-drawn charcoal animation with artistic texture |
+| **Impressionist Painting** | Monet-inspired brushwork in motion with painterly quality |
+| **Cyberpunk** | Neon-drenched futuristic cityscapes with high-tech atmosphere |
 
-### 💡 Creative & Experimental
+### 📢 Advertising & Commercial (7 styles)
 | Style | Description |
 |-------|-------------|
-| Cyberpunk | Neon-drenched futuristic cityscapes |
-| Biodigital Minimalism | Clean, organic-tech fusion |
-| Light Painting | Long-exposure light trail effects |
-| Geometric Particle Explosion | Abstract particle dynamics |
-| Kaleidoscope Transformation | Symmetrical pattern morphing |
-| Architectural Visualization | Polished architectural renders |
+| **Macro Product Hero** | Close-up hero product shots with dramatic detail |
+| **Pour Shot Commercial** | Liquid/pouring product videos with smooth flow |
+| **Lifestyle UGC** | User-generated content look with authentic vibe |
+| **Luxury Serenity** | Premium, calm luxury feel with elegant motion |
+| **Beauty ASMR** | Satisfying beauty/skincare clips with soothing atmosphere |
+| **Corporate Clean** | Professional business content with polished presentation |
+| **Fashion Detail** | High-fashion editorial motion with stylish cinematography |
 
-### 📦 Product & Commercial
+### ✨ Special Effects & Specialized Capture (9 styles)
 | Style | Description |
 |-------|-------------|
-| Macro Product Hero | Close-up hero product shots |
-| Pour Shot Commercial | Liquid/pouring product videos |
-| Lifestyle UGC | User-generated content look |
-| Luxury Serenity | Premium, calm luxury feel |
-| Beauty ASMR | Satisfying beauty/skincare clips |
-| Corporate Clean | Professional business content |
-| Fashion Detail | High-fashion editorial motion |
-
-### 🔧 Specialty
-| Style | Description |
-|-------|-------------|
-| Day-to-Night Timelapse | Time-lapse lighting transitions |
-| First-Person POV | Immersive first-person perspective |
-| Educational Whiteboard | Whiteboard animation explainers |
-| One-Take Monologue | Single continuous shot |
+| **Day-to-Night Timelapse** | Time-lapse lighting transitions from day to night |
+| **First-Person POV** | Immersive first-person perspective with dynamic movement |
+| **Biodigital Minimalism** | Clean, organic-tech fusion with modern aesthetic |
+| **Light Painting** | Long-exposure light trail effects with creative illumination |
+| **Geometric Particle Explosion** | Abstract particle dynamics with mathematical precision |
+| **Architectural Visualization** | Polished architectural renders with professional lighting |
+| **Kaleidoscope Transformation** | Symmetrical pattern morphing with mesmerizing effects |
+| **Educational Whiteboard** | Whiteboard animation explainers with clear visualization |
+| **One-Take Monologue** | Single continuous shot with natural camera movement |
 
 ---
 
